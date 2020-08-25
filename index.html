@@ -55,7 +55,7 @@
     <a-assets>
         <video src="assets/asset.mp4"
                preload="auto" id="vid" response-type="arraybuffer" loop
-               crossorigin webkit-playsinline autoplay muted playsinline>
+               crossorigin webkit-playsinline autoplay unmuted playsinline>
         </video>
     </a-assets>
 
@@ -66,8 +66,8 @@
     >
         <a-video
                 src="#vid"
-                position='0 0 0'
-                rotation='90 0 0'
+                position='0 0.005 0'
+                rotation='270 0 0'
                 width='300'
                 height='175'
         >
