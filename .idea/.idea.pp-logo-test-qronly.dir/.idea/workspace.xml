@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365259d2-9625-41ec-b938-4a9dd148e1d1" name="Default Changelist" comment="index updates">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.pp-logo-test-qronly.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.pp-logo-test-qronly.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="365259d2-9625-41ec-b938-4a9dd148e1d1" name="Default Changelist" comment="index updates" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598381115973</updated>
-      <workItem from="1598381181920" duration="2761000" />
+      <workItem from="1598381181920" duration="3285000" />
     </task>
     <task id="LOCAL-00001" summary="index updates">
       <created>1598386822466</created>
@@ -66,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598386822466</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="index updates">
+      <created>1598387075233</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598387075233</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,9 +95,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="index updates" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="300" y="181" key="Vcs.Push.Dialog.v2" timestamp="1598386858934">
+    <state x="300" y="181" key="Vcs.Push.Dialog.v2" timestamp="1598387079629">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="300" y="181" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1598386858934" />
+    <state x="300" y="181" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1598387079629" />
   </component>
 </project>
